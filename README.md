@@ -5,4 +5,4 @@ I am a health economist who is especially fond of the 'decision-making' and Heal
 - Here is my [LinkedIn](https://www.linkedin.com/in/joshua-soboil-067351172/)</a>
 - And I also use [Twitter](https://twitter.com/ama_loop)</a>
 
-<sup>Note:</sup>
+<sup>Note: this overview page is inspired by the work of [Monica Powell](https://github.com/M0nica)</sup>
