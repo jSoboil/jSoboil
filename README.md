@@ -5,6 +5,5 @@ For some added personal bytes, I also encourage the use of R for HTA. An extensi
 
 ##  Social Media:
 - Here is my [LinkedIn](https://www.linkedin.com/in/joshua-soboil-067351172/)</a>
-- And I also use [Twitter](https://twitter.com/ama_loop)</a>
 
 <sup>Note: this overview page is inspired by the work of [Monica Powell](https://github.com/M0nica)</sup>
