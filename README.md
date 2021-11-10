@@ -5,5 +5,7 @@ For some added personal bytes, I also encourage the use of R for HTA. An extensi
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jSoboil&repo=github-readme-stats&hide=css,html,postscript" />
+  <p>
+  </p>
   <img align = "right" src = "https://github-readme-stats.vercel.app/api?username=jSoboil&repo=github-readme-stats$show_icons=true&hide=stars&custom_title=Stats&count_private=true" />
   </a>
