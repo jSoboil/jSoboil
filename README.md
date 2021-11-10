@@ -5,7 +5,7 @@ For some added personal bytes, I also encourage the use of R for HTA. An extensi
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jSoboil&show_icons=true&hide=stars&custom_title=Stats&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jSoboil&hide=css, html, postscript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jSoboil&hide=css,html,postscript)](https://github.com/anuraghazra/github-readme-stats)
   
 ##  Social Media:
 - [LinkedIn](https://www.linkedin.com/in/joshua-soboil-067351172/)</a>
